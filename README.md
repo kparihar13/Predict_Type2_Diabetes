@@ -22,5 +22,7 @@ This folder contains all the jupyter notebooks used in the CIS520 final project 
 
 Based on the pipeline described in clean_dataset.ipynb, 23 features (besides the output variable) were identified. However, upon closer inspection we realized that one of the features, “_TOTINDA”, was defined by another one, “EXERANY2”, so we removed the former to avoid redundancy
 
+References: \n
 [1] Centers for Disease Control and Prevention. Behavioral Risk Factor Surveillance System. URL: https://www.kaggle.com/cdc/behavioral-risk-factor-surveillance-system.
+
 [2] Alex Teboul. Diabetes Health Indicators Dataset. URL: https://www.kaggle.com/alexteboul/diabetes-health-indicators-dataset.
